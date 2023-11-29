@@ -6,5 +6,3 @@
  For example there will be an error here.
  
  include version control.
- 
- and again.
