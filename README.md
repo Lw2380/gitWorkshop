@@ -1,2 +1,6 @@
 # gitWorkshop
- Example workshop 29/11/23
+ This is an example repository.
+ 
+ you can add/change the text here.
+ 
+ For example there will be an errror here.
